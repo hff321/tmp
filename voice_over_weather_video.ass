@@ -1,0 +1,50 @@
+[Script Info]
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: CustomStyle,Arial,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.50,CustomStyle,,0,0,0,,Moving
+Dialogue: 0,0:00:00.50,0:00:00.74,CustomStyle,,0,0,0,,down
+Dialogue: 0,0:00:00.74,0:00:00.86,CustomStyle,,0,0,0,,to
+Dialogue: 0,0:00:00.86,0:00:01.02,CustomStyle,,0,0,0,,the
+Dialogue: 0,0:00:01.02,0:00:01.32,CustomStyle,,0,0,0,,central
+Dialogue: 0,0:00:01.32,0:00:01.74,CustomStyle,,0,0,0,,area,
+Dialogue: 0,0:00:01.88,0:00:01.98,CustomStyle,,0,0,0,,we
+Dialogue: 0,0:00:01.98,0:00:02.10,CustomStyle,,0,0,0,,are
+Dialogue: 0,0:00:02.10,0:00:02.36,CustomStyle,,0,0,0,,seeing
+Dialogue: 0,0:00:02.36,0:00:02.74,CustomStyle,,0,0,0,,clear
+Dialogue: 0,0:00:02.74,0:00:03.44,CustomStyle,,0,0,0,,skies,
+Dialogue: 0,0:00:03.80,0:00:03.90,CustomStyle,,0,0,0,,a
+Dialogue: 0,0:00:03.90,0:00:04.14,CustomStyle,,0,0,0,,gentle
+Dialogue: 0,0:00:04.14,0:00:04.64,CustomStyle,,0,0,0,,breeze,
+Dialogue: 0,0:00:04.80,0:00:04.92,CustomStyle,,0,0,0,,and
+Dialogue: 0,0:00:04.92,0:00:05.34,CustomStyle,,0,0,0,,mild
+Dialogue: 0,0:00:05.34,0:00:05.96,CustomStyle,,0,0,0,,temperatures,
+Dialogue: 0,0:00:06.54,0:00:06.88,CustomStyle,,0,0,0,,perfect
+Dialogue: 0,0:00:06.88,0:00:07.18,CustomStyle,,0,0,0,,for
+Dialogue: 0,0:00:07.18,0:00:07.36,CustomStyle,,0,0,0,,an
+Dialogue: 0,0:00:07.36,0:00:07.66,CustomStyle,,0,0,0,,evening
+Dialogue: 0,0:00:07.66,0:00:08.18,CustomStyle,,0,0,0,,stroll.
+Dialogue: 0,0:00:09.10,0:00:09.56,CustomStyle,,0,0,0,,Temperatures
+Dialogue: 0,0:00:09.56,0:00:09.76,CustomStyle,,0,0,0,,are
+Dialogue: 0,0:00:09.76,0:00:10.06,CustomStyle,,0,0,0,,hovering
+Dialogue: 0,0:00:10.06,0:00:10.46,CustomStyle,,0,0,0,,around
+Dialogue: 0,0:00:10.46,0:00:10.64,CustomStyle,,0,0,0,,a
+Dialogue: 0,0:00:10.64,0:00:11.00,CustomStyle,,0,0,0,,comfortable
+Dialogue: 0,0:00:11.00,0:00:11.58,CustomStyle,,0,0,0,,55
+Dialogue: 0,0:00:11.58,0:00:12.18,CustomStyle,,0,0,0,,degrees
+Dialogue: 0,0:00:12.18,0:00:12.64,CustomStyle,,0,0,0,,Fahrenheit,
+Dialogue: 0,0:00:13.16,0:00:13.30,CustomStyle,,0,0,0,,the
+Dialogue: 0,0:00:13.30,0:00:13.68,CustomStyle,,0,0,0,,ideal
+Dialogue: 0,0:00:13.68,0:00:14.02,CustomStyle,,0,0,0,,weather
+Dialogue: 0,0:00:14.02,0:00:14.30,CustomStyle,,0,0,0,,for
+Dialogue: 0,0:00:14.30,0:00:14.70,CustomStyle,,0,0,0,,outdoor
+Dialogue: 0,0:00:14.70,0:00:15.28,CustomStyle,,0,0,0,,activities.
